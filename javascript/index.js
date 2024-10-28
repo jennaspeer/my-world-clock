@@ -42,6 +42,7 @@ function updateCity(event) {
     "A"
   )}</small></div>
   </div>
+  <a href="https://speer-world-clock.netlify.app/">All cities</a>
   `;
 }
 
